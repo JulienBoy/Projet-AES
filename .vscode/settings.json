@@ -1,0 +1,9 @@
+{
+    "terminal.integrated.automationProfile.windows": {
+        "WSL":{
+            "path": "wsl.exe",
+            "source": "Git Bash"
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "WSL"
+}
